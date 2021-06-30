@@ -59,6 +59,10 @@ require "ship_compliant/inventory_product"
 require "ship_compliant/get_inventory_details"
 require "ship_compliant/get_inventory_details_result"
 
+# TAX SERVICE
+
+require "ship_compliant/tax_service"
+
 module ShipCompliant
   # Your code goes here...
 end
